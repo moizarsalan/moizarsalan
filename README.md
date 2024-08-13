@@ -11,6 +11,7 @@ I’m passionate about AI 🤖, Machine Learning 📈, and Automation ⚙️. I�
 📫 Reach Out: moizarsalan647@gmail.com
 
 💬 WhatsApp: +03279105686
+
 Projects
 
 LLM Feedback Console 📝
