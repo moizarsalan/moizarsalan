@@ -64,6 +64,6 @@ How to Reach Me
 
 📧 Email:    moizarsalan647@gmail.com
 
-💬 WhatsApp: +92 03279105686
+💬 WhatsApp: +92 3279105686
 
 🌐 LinkedIn: www.linkedin.com/in/abdul-moiz-arsalan-141602252
