@@ -56,9 +56,9 @@ Skills
 
 Programming Languages: Python 🐍
 
-Tools and Frameworks: TensorFlow ⚛️, Keras 🌟, Scikit-learn 🔬
+Tools and Frameworks: TensorFlow ⚛️, Scikit-learn 🔬
 
-Technologies: Data Analysis 📊, Predictive Modeling 🔮, Robotic Process Automation 🤖
+Technologies: Data Analysis 📊, Predictive Modeling 🔮, Automation 🤖
 
 How to Reach Me
 
