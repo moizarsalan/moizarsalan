@@ -2,7 +2,9 @@ Hi, I’m Moiz Arsalan 👋
 
 About Me
 
-I’m passionate about AI 🤖, Machine Learning 📈, and Automation ⚙️. I’m currently diving deep into Automation and AI to expand my knowledge and skills in these cutting-edge areas.
+I am a student at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, passionate about Artificial Intelligence and its potential to transform the world. My technical skills include Machine Learning, Python Programming, IT Automation, and IT Support. I enjoy using these skills to create efficient solutions, solve complex problems, and work on innovative projects.
+
+I am eager to learn and keep up with the latest developments in AI and technology. My passion inspires me to explore new ideas and improve my skills and knowledge. I believe AI has the power to create positive change, and I am excited to work on projects that make a difference. Feel free to connect with me to discuss opportunities, ideas, or collaborations!
 
 👀 Interests: AI, Machine Learning, Automation
 
@@ -54,11 +56,9 @@ Key Features:
 
 Skills
 
-Programming Languages: Python 🐍
-
-Tools and Frameworks: TensorFlow ⚛️, Scikit-learn 🔬
-
-Technologies: Data Analysis 📊, Predictive Modeling 🔮, Automation 🤖
+Python Programming
+IT Automation
+Machine Learning
 
 How to Reach Me
 
