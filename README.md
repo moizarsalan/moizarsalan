@@ -2,13 +2,13 @@ Hi, I’m Moiz Arsalan 👋
 
 About Me
 
-I am a student at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, passionate about Artificial Intelligence and its potential to transform the world. My technical skills include Machine Learning, Python Programming, IT Automation, and IT Support. I enjoy using these skills to create efficient solutions, solve complex problems, and work on innovative projects.
+I am a student at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology. I am really interested in Artificial Intelligence (AI) and how it can change the world. My skills include Machine Learning, Deep Learning, Artificial Neural Networks (ANN), Data Analysis, Data Exploration, and Data Cleaning. I enjoy using these skills to build smart solutions, solve problems, and create AI projects that can make a real difference.
 
-I am eager to learn and keep up with the latest developments in AI and technology. My passion inspires me to explore new ideas and improve my skills and knowledge. I believe AI has the power to create positive change, and I am excited to work on projects that make a difference. Feel free to connect with me to discuss opportunities, ideas, or collaborations!
+I always like to learn new things and stay updated with the latest in AI and technology. I believe AI can help make the world a better place, and I am excited to be part of this journey through my projects and work. Feel free to connect with me to talk about ideas, opportunities, or collaborations!
 
-👀 Interests: AI, Machine Learning, Automation
+👀 Interests: AI, Machine Learning, Deep Learning, Data Science
 
-🌱 Currently Learning: Automation and AI
+🌱 Currently Learning: Advanced Deep Learning, Neural Networks
 
 📫 Reach Out: moizarsalan647@gmail.com
 
@@ -16,53 +16,105 @@ I am eager to learn and keep up with the latest developments in AI and technolog
 
 Projects
 
-LLM Feedback Console 📝
+Forex Rate Prediction System 💰
 
-Developed a feedback console for large language models (LLMs) that allows users to provide real-time feedback on AI responses. This tool helps in improving the performance and accuracy of LLMs by collecting and
-
-analyzing user feedback.
+I created a system to predict forex rates using machine learning. This project used historical data and tested different algorithms to predict currency exchange rates.
 
 Key Features:
 
-📊 Real-time feedback collection
+📊 Time series data analysis
 
-🔄 Integration with various LLMs
+📈 Using algorithms to predict currency rates
 
-📈 Analytics dashboard for feedback analysis
+💵 Forex rate predictions
+
+Image Classification with Plant Dataset 🌱
+
+I worked on a project where I classified images of plants using deep learning. The goal was to recognize different types of plants by their images.
+
+Key Features:
+
+📸 Classifying images with CNN (Convolutional Neural Networks)
+
+🌿 A dataset of various plant species
+
+📈 Model training and evaluation
+
+Data Analysis of Debt Restructuring Companies 📊
+
+I analyzed data from companies involved in debt restructuring. I focused on understanding their financial performance and finding trends to help with decision-making.
+
+Key Features:
+
+💼 Analyzing financial data from debt restructuring companies
+
+📊 Visualizing financial data (ROA, ROE, EPS)
+
+📈 Finding trends and performance insights
+
+Stroke Prediction Model 🧠
+
+I created a model to predict the risk of a stroke using health data from patients. The aim was to help identify people at higher risk for a stroke.
+
+Key Features:
+
+🏥 Analyzing health data for stroke prediction
+
+🔍 Using classification algorithms to predict strokes
+
+📉 Predicting stroke risk based on patient data
+
+LLM Feedback Console 📝
+
+I developed a system where users can give feedback on AI responses. This helps improve the performance of large language models (LLMs) by analyzing user feedback.
+
+Key Features:
+
+📊 Collecting feedback in real-time
+
+🔄 Working with different LLMs
+
+📈 Analyzing feedback with a dashboard
 
 Basic AI Assistant 🤖
 
-Created a basic AI assistant capable of handling common queries and performing basic tasks. This project showcases my ability to build and deploy simple conversational agents.
+I created a simple AI assistant that can answer questions and complete basic tasks. This shows my ability to build and deploy simple AI systems.
 
 Key Features:
 
-🗣️ Natural language understanding
+🗣️ Understanding natural language
 
-🛠️ Basic task automation
+🛠️ Automating basic tasks
 
-🌟 Interactive user interface
+🌟 Easy-to-use interface
 
 Student Grade Analysis 📊
 
-Built a system for analyzing and visualizing student grades. This tool helps educators and students to understand performance trends, identify areas for improvement, and make data-driven decisions.
+I built a system to analyze student grades. This tool helps teachers and students see performance trends, identify areas to improve, and make data-driven decisions.
 
 Key Features:
 
-📉 Data visualization of student grades
+📉 Visualizing student grades
 
-📈 Performance trend analysis
+📈 Analyzing performance trends
 
-📑 Automated report generation
+📑 Generating reports automatically
 
-Skills
+Skills:
 
 Python Programming
-IT Automation
+
 Machine Learning
 
-How to Reach Me
+Deep Learning (ANN)
 
-📧 Email:    moizarsalan647@gmail.com
+Data Analysis & Exploration
+
+Data Cleaning & Preprocessing
+
+How to Reach Me:
+
+📧 Email: moizarsalan647@gmail.com
 
 💬 WhatsApp: +92 3279105686
 
